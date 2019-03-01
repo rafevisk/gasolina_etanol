@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">燃料指标</string>
+    <string name="hint_resultado">最好使用......</string>
+    <string name="gasolina">汽油（升）</string>
+    <string name="gasolinaText">汽油</string>
+    <string name="etanol">乙醇（升）</string>
+    <string name="etanolText">乙醇</string>
+</resources>

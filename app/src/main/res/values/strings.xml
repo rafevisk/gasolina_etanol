@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Indicador de Combustível</string>
+    <string name="gasolina">Gasolina (litro)</string>
+    <string name="gasolinaText">Gasolina</string>
+    <string name="etanol">Etanol (litro)</string>
+    <string name="etanolText">Etanol</string>
+    <string name="hint_resultado">É melhor usar ...</string>
+</resources>

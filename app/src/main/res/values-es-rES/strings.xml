@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Indicador de combustible</string>
+    <string name="gasolina">Gasolina (litro)</string>
+    <string name="gasolinaText">Gasolina</string>
+    <string name="etanol">Etanol (litro)</string>
+    <string name="etanolText">Etanol</string>
+    <string name="hint_resultado">"Es mejor usar ...   "</string>
+</resources>
